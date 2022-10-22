@@ -1,0 +1,17 @@
+<div style="text-align:center;">
+  <div class="ghor" id="a" onclick="chek_mark()"></div>
+  function call
+</div>
+<script type="text/javascript">
+  function chek_mark(){
+   var el= document.getElementById('a').style.backgroundImage="url(images/img.jpg)"; // specify the image path here
+   if (el.url("Black-Wallpaper.jpg"))  
+   {
+     el.url = "cross1.png";
+    }
+    else if(el.url("cross1.png"))
+    {
+      alert("<h1>This is working too.</h1>");
+     }
+   }
+</script>

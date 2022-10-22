@@ -12,10 +12,3 @@ Edit-1:
 Add lazy loading ( like that's gonna help )
 
 [Marvel dev api](https://marvelapp.com/developers)
-
-┌───┬──┬───┐
-│┌─┐├┤├┴┐┌┐│
-│└──┐││░││││
-└──┐│││░││││
-│└─┘├┤├┬┘└┘│
-└───┴──┴───┘
